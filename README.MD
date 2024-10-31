@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./streamlineindustrial'>
+  <img src='./streamlineindustrial.png'>
   <h1 align='center'>streamlineindustrial.com</h1>
 </div>
 
